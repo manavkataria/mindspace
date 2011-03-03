@@ -3,6 +3,9 @@
 
 ==Microsoft Kinect, Depth Detection and Motion Tracking==
   [http://www.ee.iitb.ac.in/student/~kataria/data/extern/slide1.jpg] 
-----
+
 ==Multiple views of the same scene from different viewing angles based on user's location relative to the display==
   [http://www.ee.iitb.ac.in/student/~kataria/data/extern/slide2.jpg]
+
+----
+Feel free to leave a comment
