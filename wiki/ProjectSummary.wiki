@@ -2,10 +2,10 @@
 #labels Project,Summary,Slides,Design,Features,Phase-Implementation
 
 ==Microsoft Kinect, Depth Detection and Motion Tracking==
-  [http://www.ee.iitb.ac.in/student/~kataria/data/extern/slide1.jpg] 
+  [http://manavkataria.files.wordpress.com/2012/01/slide1.jpg] 
 
 ==Multiple views of the same scene from different viewing angles based on user's location relative to the display==
-  [http://www.ee.iitb.ac.in/student/~kataria/data/extern/slide2.jpg]
+  [http://manavkataria.files.wordpress.com/2012/01/slide2.jpg]
 
 ----
 Have a question or a comment? Feel free to drop a line.
