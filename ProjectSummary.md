@@ -1,0 +1,10 @@
+## Microsoft Kinect, Depth Detection and Motion Tracking ##
+> ![http://manavkataria.files.wordpress.com/2012/01/slide1.jpg](http://manavkataria.files.wordpress.com/2012/01/slide1.jpg)
+
+## Multiple views of the same scene from different viewing angles based on user's location relative to the display ##
+> ![http://manavkataria.files.wordpress.com/2012/01/slide2.jpg](http://manavkataria.files.wordpress.com/2012/01/slide2.jpg)
+
+
+---
+
+Have a question or a comment? Feel free to drop a line.
